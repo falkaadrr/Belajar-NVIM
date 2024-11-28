@@ -1,0 +1,11 @@
+---
+title: BASIC PYTHON
+description: Bismillah, dengan menyebut nama Allah
+date: 2024-11-28
+author: Falka Derizqia
+categories: [Studied]
+draft: false
+show: true
+freeze: true
+---
+
